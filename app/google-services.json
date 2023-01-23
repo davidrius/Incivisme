@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "818269572136",
+    "firebase_url": "https://localitzacio-20662-default-rtdb.firebaseio.com",
+    "project_id": "localitzacio-20662",
+    "storage_bucket": "localitzacio-20662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818269572136:android:f3a04ffa88a7783fb4f91d",
+        "android_client_info": {
+          "package_name": "com.david.incivisme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818269572136-bergargj8lmje9o5licqd3cbpegmi5vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf5HYLyS1Hha0o8LLu8LI4uV_T5QCpEvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818269572136-bergargj8lmje9o5licqd3cbpegmi5vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818269572136:android:cac4b6ce1f0c6275b4f91d",
+        "android_client_info": {
+          "package_name": "com.example.pruebaincivisme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818269572136-bergargj8lmje9o5licqd3cbpegmi5vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf5HYLyS1Hha0o8LLu8LI4uV_T5QCpEvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818269572136-bergargj8lmje9o5licqd3cbpegmi5vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
